@@ -1,0 +1,66 @@
+13
+101
+Nguyen Van An
+RANG
+1
+101
+102
+Tran Thi Thao Vy
+RANG
+2
+101
+103
+Le Van Dung
+MAT
+3
+201
+104
+Pham Thi Thu Duyen
+NOI
+1
+301
+105
+Hoang Van Viet
+NOI
+3
+302
+106
+Ly Hoang Anh
+NOI
+1
+303
+107
+Trieu Minh Tien
+NOI
+2
+301
+108
+Ho Viet Quoc
+NHI
+1
+401
+109
+Ngo Trong Nghia
+NHI
+2
+401
+110
+Phuong Nguyen
+NGOAI
+3
+501
+111
+Vo Thao Nguyen
+NGOAI
+1
+502
+112
+Bui Huyen Huyen
+NGOAI
+2
+503
+113
+Nguyen Van Dat
+RANG
+3
+110
